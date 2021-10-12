@@ -6,4 +6,4 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 [Multi-Modal Knowledge Graphs](https://arxiv.org/abs/1903.05485)
 
-[K-BERT: Enabling Language Representation with Knowledge Graph](https://arxiv.org/pdf/1909.07606.pdf)
+[K-BERT: Enabling Language Representation with Knowledge Graph](https://arxiv.org/pdf/1909.07606.pdf): fuse knowledge into the learned representation
