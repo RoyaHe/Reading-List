@@ -11,5 +11,7 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 ### Multi-modal Learning
 [Multimodal Intelligence: Representation Learning, Information Fusion, and Applications](https://arxiv.org/abs/1911.03977)
+
 [Learning Grounded Meaning Representations with Autoencoders](https://aclanthology.org/P14-1068/)
+
 [Multimodal Deep Learning](https://towardsdatascience.com/multimodal-deep-learning-ce7d1d994f4)
