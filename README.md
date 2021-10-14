@@ -16,4 +16,5 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 [Multimodal Deep Learning](https://towardsdatascience.com/multimodal-deep-learning-ce7d1d994f4)
 
-[Integrating Image-Based and Knowledge-Based Representation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8689107)
+[Integrating Image-Based and Knowledge-Based Representation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8689107): IKRL integrates image information and structured knowledge with TransE
+
