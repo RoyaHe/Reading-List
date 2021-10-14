@@ -15,3 +15,5 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 [Learning Grounded Meaning Representations with Autoencoders](https://aclanthology.org/P14-1068/)
 
 [Multimodal Deep Learning](https://towardsdatascience.com/multimodal-deep-learning-ce7d1d994f4)
+
+[Integrating Image-Based and Knowledge-Based Representation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8689107)
