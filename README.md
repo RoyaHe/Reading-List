@@ -18,4 +18,6 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 [Integrating Image-Based and Knowledge-Based Representation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8689107): IKRL integrates image information and structured knowledge with TransE
 
+[Representation Learning of Knowledge Graphs with Entity Descriptions](https://dl.acm.org/doi/10.5555/3016100.3016273)
+
 [A Multimodal Translation-Based Approach for Knowledge Graph Representation Learning](https://aclanthology.org/S18-2027/): combining complementary(multimodal) energies is found making the results more robust. Total plausibilities referring to structured KGs, visual and textual information.
