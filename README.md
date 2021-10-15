@@ -14,7 +14,7 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 [Learning Grounded Meaning Representations with Autoencoders](https://aclanthology.org/P14-1068/)
 
-[Multimodal Deep Learning](https://towardsdatascience.com/multimodal-deep-learning-ce7d1d994f4)
+[Blog: Multimodal Deep Learning](https://towardsdatascience.com/multimodal-deep-learning-ce7d1d994f4)
 
 [MMRFAN: Multi-modal Multi-relational Feature Aggregation Network for Medical Knowledge Representation Learning](https://dl.acm.org/doi/abs/10.1145/3394171.3413736): maps entity's textual knowledge and visual knowledge into a unified space and learns representations.
 
