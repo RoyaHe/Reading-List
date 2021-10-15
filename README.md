@@ -16,6 +16,8 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 [Multimodal Deep Learning](https://towardsdatascience.com/multimodal-deep-learning-ce7d1d994f4)
 
+[MMRFAN: Multi-modal Multi-relational Feature Aggregation Network for Medical Knowledge Representation Learning](https://dl.acm.org/doi/abs/10.1145/3394171.3413736): maps entity's textual knowledge and visual knowledge into a unified space and learns representations.
+
 [Integrating Image-Based and Knowledge-Based Representation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8689107): IKRL integrates image information and structured knowledge with TransE
 
 [Representation Learning of Knowledge Graphs with Entity Descriptions](https://dl.acm.org/doi/10.5555/3016100.3016273): DKRL integrates textual information and structured knowledge with TransE
