@@ -24,3 +24,8 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 
 [A Multimodal Translation-Based Approach for Knowledge Graph Representation Learning](https://aclanthology.org/S18-2027/): combining complementary(multimodal) energies is found making the results more robust. Total plausibilities referring to structured KGs, visual and textual information.
+
+
+
+### Semi-supervised Learning and Adversarial Training
+[Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725)
