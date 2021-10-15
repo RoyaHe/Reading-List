@@ -30,4 +30,4 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 ### Semi-supervised Learning and Adversarial Training
 [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725)
 
-[Introduction to semi-supervised learning and adversarial training](https://medium.com/inside-machine-learning/placeholder-3557ebb3d470)
+[Blog: Introduction to semi-supervised learning and adversarial training](https://medium.com/inside-machine-learning/placeholder-3557ebb3d470)
