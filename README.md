@@ -31,7 +31,9 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 [FVQA: Fact-based Visual Question Answering](https://arxiv.org/pdf/1606.05433.pdf)
 
+[Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual](https://arxiv.org/pdf/2006.09073.pdf)
 
+[Zero-shot Visual Question Answering using Knowledge Graphs]()
 
 
 
