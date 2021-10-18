@@ -8,6 +8,8 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 [K-BERT: Enabling Language Representation with Knowledge Graph](https://arxiv.org/pdf/1909.07606.pdf): fuse knowledge into the learned representation
 
+[EMBEDDING ENTITIES AND RELATIONS FOR LEARN- ING AND INFERENCE IN KNOWLEDGE BASES](https://arxiv.org/pdf/1412.6575.pdf)
+
 
 ### Multi-modal Learning
 [Multimodal Intelligence: Representation Learning, Information Fusion, and Applications](https://arxiv.org/abs/1911.03977)
