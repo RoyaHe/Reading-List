@@ -10,6 +10,8 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 [EMBEDDING ENTITIES AND RELATIONS FOR LEARN- ING AND INFERENCE IN KNOWLEDGE BASES](https://arxiv.org/pdf/1412.6575.pdf)
 
+[A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network](https://aclanthology.org/N18-2053.pdf)
+
 
 ### Multi-modal Learning
 [Multimodal Intelligence: Representation Learning, Information Fusion, and Applications](https://arxiv.org/abs/1911.03977)
