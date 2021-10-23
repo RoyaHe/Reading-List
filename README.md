@@ -37,6 +37,8 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 [Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual](https://arxiv.org/pdf/2006.09073.pdf)
 
+[Cross-Modal Knowledge Reasoning for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2009.00145)
+
 [Zero-shot Visual Question Answering using Knowledge Graphs](https://arxiv.org/pdf/2107.05348.pdfc)
 
 [Multimodal Neural Graph Memory Networks for Visual Question Answering](https://aclanthology.org/2020.acl-main.643.pdf)
