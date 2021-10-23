@@ -41,7 +41,13 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 [Multimodal Neural Graph Memory Networks for Visual Question Answering](https://aclanthology.org/2020.acl-main.643.pdf)
 
+[Ask Me Anything: Free-form Visual Question Answering Based on Knowledge from External Sources](https://arxiv.org/pdf/1511.06973.pdf)
 
+[Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering](https://arxiv.org/abs/1811.00538)
+
+[Conceptbert: Concept-aware representation for visual question answering](https://aclanthology.org/2020.findings-emnlp.44/)
+
+[Multi-Modal Answer Validation for Knowledge-Based VQA](https://arxiv.org/abs/2103.12248)
 
 ### Semi-supervised Learning and Adversarial Training
 [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725)
