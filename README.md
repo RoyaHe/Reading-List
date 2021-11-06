@@ -51,6 +51,9 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 [Multi-Modal Answer Validation for Knowledge-Based VQA](https://arxiv.org/abs/2103.12248)
 
+[Towards Knowledge-Augmented Visual Question Answering](https://aclanthology.org/2020.coling-main.169/)
+
+
 ### Semi-supervised Learning and Adversarial Training
 [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725)
 
