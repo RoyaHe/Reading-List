@@ -26,11 +26,10 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 [Representation Learning of Knowledge Graphs with Entity Descriptions](https://dl.acm.org/doi/10.5555/3016100.3016273): DKRL integrates textual information and structured knowledge with TransE
 
-
 [A Multimodal Translation-Based Approach for Knowledge Graph Representation Learning](https://aclanthology.org/S18-2027/): combining complementary(multimodal) energies is found making the results more robust. Total plausibilities referring to structured KGs, visual and textual information.
 
 
-### External Knowledge for Visual Question Answering
+### Visual Question Answering
 [Explicit Knowledge-based Reasoning for Visual Question Answering](https://www.ijcai.org/proceedings/2017/0179.pdf)
 
 [FVQA: Fact-based Visual Question Answering](https://arxiv.org/pdf/1606.05433.pdf)
@@ -53,8 +52,37 @@ By [Roya He](https://royahe.github.io) (yunjie.he.17@ucl.ac.uk), this repository
 
 [Towards Knowledge-Augmented Visual Question Answering](https://aclanthology.org/2020.coling-main.169/)
 
+[Dynamic Memory Networks for Visual and Textual Question Answering](http://proceedings.mlr.press/v48/xiong16.pdf)
+
+
 
 ### Semi-supervised Learning and Adversarial Training
 [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725)
 
 [Blog: Introduction to semi-supervised learning and adversarial training](https://medium.com/inside-machine-learning/placeholder-3557ebb3d470)
+
+
+
+### Prompt
+[OpenAI GPT-3 and Prompt Engineering](https://medium.com/swlh/openai-gpt-3-and-prompt-engineering-dcdc2c5fcd29)
+
+
+### Question Answering and MRC
+[Improving Question Answering with External Knowledge](https://aclanthology.org/D19-5804.pdf)
+
+[Cross-Lingual Machine Reading Comprehension](https://aclanthology.org/D19-1169.pdf)
+
+[FewshotQA: A simple framework for few-shot learning of question answering tasks using pre-trained text-to-text models](https://arxiv.org/abs/2109.01951)
+
+[Few-Shot Question Answering by Pretraining Span Selection](https://aclanthology.org/2021.acl-long.239.pdf)
+
+[Dynamic Neuro-Symbolic Knowledge Graph Construction for Zero-shot Commonsense Question Answering](https://arxiv.org/abs/1911.03876)
+
+[Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering](https://aclanthology.org/2020.emnlp-main.11/)
+
+
+//### Dialogue
+//[CSAGN: Conversational Structure Aware Graph Network for Conversational Semantic Role Labeling](https://arxiv.org/abs/2109.11541)
+
+
+
